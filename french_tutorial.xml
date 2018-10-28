@@ -23,7 +23,7 @@
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>Trouver le {THING:ItemSpaceHelmet} et mettez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur le {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant. Pour plus d'informations, lisez la section {LINK:InventoryPage;Inventaire} dans le {LINK:Home;Stationpedia}</Value>
+      <Value>Trouver le {THING:ItemSpaceHelmet} et mettez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant. Pour plus d'informations, lisez la section {LINK:InventoryPage;Inventaire} dans le {LINK:Home;Stationpedia}</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
@@ -41,7 +41,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
-      <Value>Trouver le {THING:ItemSpacepack} et mettez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur la touche {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant.</Value>
+      <Value>Trouver le {THING:ItemSpacepack} et mettez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearJetpack</Key>
@@ -53,7 +53,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>
-      <Value>Trouver une {THING:ItemBatteryCellLarge} et ramasser-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en la regardant et en cliquant sur le {KEY:PrimaryAction}. Vous pouvez faire glisser la {THING:ItemBatteryCellLarge} directement dans la {THING:ItemEvaSuit} pour gagner du temps.</Value>
+      <Value>Trouver une {THING:ItemBatteryCellLarge} et ramasser-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en la regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez faire glisser la {THING:ItemBatteryCellLarge} directement dans la {THING:ItemEvaSuit} pour gagner du temps.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit1</Key>
