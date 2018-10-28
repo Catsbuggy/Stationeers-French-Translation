@@ -23,7 +23,7 @@
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>Trouver le {THING:ItemSpaceHelmet} et mettez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant. Pour plus d'informations, lisez la section {LINK:InventoryPage;Inventaire} dans le {LINK:Home;Stationpedia}</Value>
+      <Value>Trouvez le {THING:ItemSpaceHelmet} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant. Pour plus d'informations, lisez la section {LINK:InventoryPage;Inventaire} dans le {LINK:Home;Stationpedia}</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
@@ -33,7 +33,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
-      <Value>Trouver la {THING:ItemEvaSuit} et mettez-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand}. Cette fois-ci, vous pouvez essayer de faire glisser la {THING:ItemEvaSuit} directement dans votre emplacement {SLOT:Suit}, c'est bien plus rapide. Maintenez la touche {KEY:MouseControl} enfoncée et déplacez le curseur de votre souris sur {THING:ItemEvaSuit} maintenez la touche {KEY:PrimaryAction} enfoncée et faites-la glisser vers votre emplacement {SLOT:Suit}.</Value>
+      <Value>Trouvez la {THING:ItemEvaSuit} et placez-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand}. Cette fois-ci, vous pouvez essayer de faire glisser la {THING:ItemEvaSuit} directement dans votre emplacement {SLOT:Suit}, c'est bien plus rapide. Maintenez la touche {KEY:MouseControl} enfoncée et déplacez le curseur de votre souris sur {THING:ItemEvaSuit} maintenez la touche {KEY:PrimaryAction} enfoncée et faites-la glisser vers votre emplacement {SLOT:Suit}.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearSuit</Key>
@@ -41,7 +41,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
-      <Value>Trouver le {THING:ItemSpacepack} et mettez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant.</Value>
+      <Value>Trouvez le {THING:ItemSpacepack} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearJetpack</Key>
@@ -53,7 +53,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>
-      <Value>Trouver une {THING:ItemBatteryCellLarge} et ramasser-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en la regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez faire glisser la {THING:ItemBatteryCellLarge} directement dans la {THING:ItemEvaSuit} pour gagner du temps.</Value>
+      <Value>Trouvez une {THING:ItemBatteryCellLarge} et ramasser-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en la regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez faire glisser la {THING:ItemBatteryCellLarge} directement dans la {THING:ItemEvaSuit} pour gagner du temps.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit1</Key>
@@ -85,7 +85,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescFilter1</Key>
-      <Value>Trouver un {THING:ItemGasFilterCarbonDioxide} et ramassez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en le regardant et en cliquant sur {KEY:PrimaryAction}. Encore une fois, vous pouvez simplement faire glisser le {THING:ItemGasFilterCarbonDioxide} du monde vers la {THING:ItemEvaSuit} pour gagner du temps. Ce filtre élimine le {GAS:CarbonDioxide} de votre {THING:ItemEvaSuit}.</Value>
+      <Value>Trouvez un {THING:ItemGasFilterCarbonDioxide} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en le regardant et en cliquant sur {KEY:PrimaryAction}. Encore une fois, vous pouvez simplement faire glisser le {THING:ItemGasFilterCarbonDioxide} du monde vers la {THING:ItemEvaSuit} pour gagner du temps. Ce filtre élimine le {GAS:CarbonDioxide} de votre {THING:ItemEvaSuit}.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter1</Key>
@@ -146,7 +146,7 @@ La {THING:ItemMiningBelt} a des emplacements spécialisés {LINK:OrePage;minerai
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
-      <Value>Dirigez-vous vers la porte du {THING:StructureAirlock} et assurer vous que votre {THING:ItemEvaSuit} et votre {THING:ItemSpaceHelmet} soit prêts. Appuyez sur la touche {KEY:HelmetSlot} pour voir le menu des interactions, puis cliquez sur l'interaction ou faites défiler jusqu'à l'option Fermer et appuyez sur {KEY:InventorySelect} pour permuter le statut, ou appuyez sur {KEY:Internals} pour activer et désactiver rapidement votre {COLORYELLOW:systemes internes}.
+      <Value>Dirigez-vous vers la porte du {THING:StructureAirlock} et assurez-vous que votre {THING:ItemEvaSuit} et votre {THING:ItemSpaceHelmet} soit prêts. Appuyez sur la touche {KEY:HelmetSlot} pour voir le menu des interactions, puis cliquez sur l'interaction ou faites défiler jusqu'à l'option Fermer et appuyez sur {KEY:InventorySelect} pour permuter le statut, ou appuyez sur {KEY:Internals} pour activer et désactiver rapidement votre {COLORYELLOW:systemes internes}.
       
 Notez que dans la partie droite de l'écran, vous voyez des icônes qui vous indiquent l'état et aussi les actions rapides qui ont été activées. Portez une attention particulière à ces indicateurs d'état et d'alerte, ils peuvent vous sauver la vie !</Value>
     </Record>
@@ -156,7 +156,7 @@ Notez que dans la partie droite de l'écran, vous voyez des icônes qui vous ind
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock2</Key>
-      <Value>Passez par la porte du {THING:StructureAirlock} et entrez dans la pièce jaune.</Value>
+      <Value>Passer par la porte du {THING:StructureAirlock} et entrer dans la pièce jaune.</Value>
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
@@ -204,7 +204,7 @@ Si vous trouvez que vous avez trop de fenêtres ouvertes, vous pouvez les fermer
     </Record>
     <Record>
       <Key>TutorialDescRepairCable2</Key>
-      <Value>Regarde le {THING:StructureCableJunctionBurnt} alors que la {THING:ItemWireCutters} est dans votre main active. Vous verrez une boîte {COLORYELLOW:jaune} autour. Appuyez et maintenez {KEY:PrimaryAction} pour enlever le {THING:StructureCableJunctionBurnt}.</Value>
+      <Value>Regardez le {THING:StructureCableJunctionBurnt} alors que la {THING:ItemWireCutters} est dans votre main active. Vous verrez une boîte {COLORYELLOW:jaune} autour. Appuyez et maintenez {KEY:PrimaryAction} enfoncée pour enlever le {THING:StructureCableJunctionBurnt}.</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable3</Key>
@@ -242,11 +242,11 @@ Appuyez sur {KEY:QuantityModifier} et l'objet tentera de trouver son meilleur em
     </Record>
     <Record>
       <Key>TutorialDescTablet1</Key>
-      <Value>Prendre la {THING:ItemTablet} et la {THING:ItemBatteryCellLarge} dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en les regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez changer votre main active en appuyant sur la touche {KEY:SwapHands}. Cela vous permettra de mettre un objet dans chaque main. Faites ceci pour continuer.</Value>
+      <Value>Prenez la {THING:ItemTablet} et la {THING:ItemBatteryCellLarge} dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en les regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez changer votre main active en appuyant sur la touche {KEY:SwapHands}. Cela vous permettra de mettre un objet dans chaque main. Faites ceci pour continuer.</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet2</Key>
-      <Value>YVous pouvez interagir avec votre emplacement de main actif en appuyant et relâchant la touche {KEY:ActiveHandSlot} ou en cliquant dessus. Ceci ouvrira la fenêtre {LINK:InventoryPage;inventaire} pour la main active. Vous pouvez changer votre main actuellement active avec la touche {KEY:SwapHands}. Sélectionnez {THING:ItemTablet} comme main active et ouvrez son emplacement intérieur pour continuer.</Value>
+      <Value>Vous pouvez interagir avec votre emplacement de main actif en appuyant et relâchant la touche {KEY:ActiveHandSlot} ou en cliquant dessus. Ceci ouvrira la fenêtre {LINK:InventoryPage;inventaire} pour la main active. Vous pouvez changer votre main actuellement active avec la touche {KEY:SwapHands}. Sélectionnez {THING:ItemTablet} comme main active et ouvrez son emplacement intérieur pour continuer.</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet4</Key>
@@ -303,15 +303,15 @@ L'utilisation de différentes cartes vous permet d'accéder à de nombreuses fon
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin2</Key>
-      <Value>Appuyer sur la touche {KEY:Drop} pour laisser tomber le {THING:ApplianceMicrowave} au-dessus du {THING:StructureBench}. Continuez à faire cela jusqu'à ce que le {THING:ApplianceMicrowave} soit posé sur le dessus du {THING:StructureBench}.</Value>
+      <Value>Appuyez sur la touche {KEY:Drop} pour laisser tomber le {THING:ApplianceMicrowave} au-dessus du {THING:StructureBench}. Continuez à faire cela jusqu'à ce que le {THING:ApplianceMicrowave} soit posé sur le dessus du {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin3</Key>
-      <Value>Regarder le {THING:ApplianceMicrowave}. Regardez sur le côté, plutôt que la porte, de sorte que vous ciblez l'objet directement et ne pas tentez de l'ouvrir. Quand vous voyez une {COLORYELLOW:boite jaune} maintenez le {KEY:PrimaryAction} enfoncée pour le fixer sur le {THING:StructureBench}.</Value>
+      <Value>Regardez le {THING:ApplianceMicrowave}. Regardez sur le côté, plutôt que la porte, de sorte que vous ciblez l'objet directement et ne pas tentez de l'ouvrir. Quand vous voyez une {COLORYELLOW:boite jaune} maintenez le {KEY:PrimaryAction} enfoncée pour le fixer sur le {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin4</Key>
-      <Value>Regardez la porte sur le {THING:ApplianceMicrowave}. appuie sur le {KEY:PrimaryAction} pour ouvrir la porte et vous permettre de mettre les ingrédients à l'intérieur.</Value>
+      <Value>Regardez la porte sur le {THING:ApplianceMicrowave}. appuyez sur le {KEY:PrimaryAction} pour ouvrir la porte et vous permettre de mettre les ingrédients à l'intérieur.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin5</Key>
