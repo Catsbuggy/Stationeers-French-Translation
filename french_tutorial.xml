@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Created by CedricS and [FR] Rem For Stationeers // Fix and Updated by Erazil-->
+<!-- version FR181029 (YYMMDD) - v0.2.1774.8154 - Created by CedricS and [FR] Rem For Stationeers -->
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
@@ -23,7 +23,7 @@
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>Trouvez le {THING:ItemSpaceHelmet} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant. Pour plus d'informations, lisez la section {LINK:InventoryPage;Inventaire} dans le {LINK:Home;Stationpedia}</Value>
+      <Value>Trouvez le {THING:ItemSpaceHelmet} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur le {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant. Pour plus d'informations, lisez la section {LINK:InventoryPage;Inventaire} dans le {LINK:Home;Stationpedia}</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
@@ -41,7 +41,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
-      <Value>Trouvez le {THING:ItemSpacepack} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant.</Value>
+      <Value>Trouvez le {THING:ItemSpacepack} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en cliquant sur le {KEY:PrimaryAction} sur la zone interactif verte que vous voyez en le regardant.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearJetpack</Key>
@@ -53,7 +53,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>
-      <Value>Trouvez une {THING:ItemBatteryCellLarge} et ramasser-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en la regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez faire glisser la {THING:ItemBatteryCellLarge} directement dans la {THING:ItemEvaSuit} pour gagner du temps.</Value>
+      <Value>Trouvez une {THING:ItemBatteryCellLarge} et ramasser-la dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en la regardant et en cliquant sur le {KEY:PrimaryAction}. Vous pouvez faire glisser la {THING:ItemBatteryCellLarge} directement dans la {THING:ItemEvaSuit} pour gagner du temps.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit1</Key>
@@ -85,7 +85,7 @@ Appuyez et maintenez la touche {KEY:MouseControl} enfoncée pour faire apparaît
     </Record>
     <Record>
       <Key>TutorialDescFilter1</Key>
-      <Value>Trouvez un {THING:ItemGasFilterCarbonDioxide} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en le regardant et en cliquant sur {KEY:PrimaryAction}. Encore une fois, vous pouvez simplement faire glisser le {THING:ItemGasFilterCarbonDioxide} du monde vers la {THING:ItemEvaSuit} pour gagner du temps. Ce filtre élimine le {GAS:CarbonDioxide} de votre {THING:ItemEvaSuit}.</Value>
+      <Value>Trouvez un {THING:ItemGasFilterCarbonDioxide} et placez-le dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en le regardant et en cliquant sur le {KEY:PrimaryAction}. Encore une fois, vous pouvez simplement faire glisser le {THING:ItemGasFilterCarbonDioxide} du monde vers la {THING:ItemEvaSuit} pour gagner du temps. Ce filtre élimine le {GAS:CarbonDioxide} de votre {THING:ItemEvaSuit}.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter1</Key>
@@ -242,7 +242,7 @@ Appuyez sur {KEY:QuantityModifier} et l'objet tentera de trouver son meilleur em
     </Record>
     <Record>
       <Key>TutorialDescTablet1</Key>
-      <Value>Prenez la {THING:ItemTablet} et la {THING:ItemBatteryCellLarge} dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en les regardant et en cliquant sur {KEY:PrimaryAction}. Vous pouvez changer votre main active en appuyant sur la touche {KEY:SwapHands}. Cela vous permettra de mettre un objet dans chaque main. Faites ceci pour continuer.</Value>
+      <Value>Prenez la {THING:ItemTablet} et la {THING:ItemBatteryCellLarge} dans votre emplacement {SLOT:LeftHand} ou {SLOT:RightHand} en les regardant et en cliquant sur le {KEY:PrimaryAction}. Vous pouvez changer votre main active en appuyant sur la touche {KEY:SwapHands}. Cela vous permettra de mettre un objet dans chaque main. Faites ceci pour continuer.</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet2</Key>
@@ -299,7 +299,7 @@ L'utilisation de différentes cartes vous permet d'accéder à de nombreuses fon
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin1</Key>
-      <Value>Certains appareils du jeu sont montés sur un {THING:StructureBench}; ils sont appelés appareils. Ramasse le {THING:ApplianceMicrowave} et placez vous devant le {THING:StructureBench}.</Value>
+      <Value>Certains appareils du jeu sont montés sur un {THING:StructureBench}; ils sont appelés appareils. Ramassez le {THING:ApplianceMicrowave} et placez vous devant le {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin2</Key>
@@ -315,9 +315,9 @@ L'utilisation de différentes cartes vous permet d'accéder à de nombreuses fon
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin5</Key>
-      <Value>Ramassez les ingrédients requis dans votre liste de tâches et regardez dans le {THING:ApplianceMicrowave} avec eux dans votre main active. Continuez à cliquer sur {KEY:PrimaryAction} pour ajouter plus d'ingrédients jusqu'à ce que vous en ayez ajouté suffisamment. N'ajoutez pas plus que nécessaire pour la recette. Vous devrez le faire deux fois pour certaines recettes.
+      <Value>Ramassez les ingrédients requis dans votre liste de tâches et regardez dans le {THING:ApplianceMicrowave} avec eux dans votre main active. Continuez à cliquer sur le {KEY:PrimaryAction} pour ajouter plus d'ingrédients jusqu'à ce que vous en ayez ajouté suffisamment. N'ajoutez pas plus que nécessaire pour la recette. Vous devrez le faire deux fois pour certaines recettes.
       
-Si vous en ajoutez trop, laissez tomber ce que vous transportez avec la touche {KEY:Drop} puis regardez le {THING:ApplianceMicrowave} la porte ouverte pour accéder à l'action {COLORYELLOW:Clear}, pour recommencer.</Value>
+Si vous en ajoutez trop, laissez tomber ce que vous transportez avec la touche {KEY:Drop} puis regardez le {THING:ApplianceMicrowave} la porte ouverte pour accéder à l'action {COLORYELLOW:Annuler}, pour recommencer.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin6</Key>
