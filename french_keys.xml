@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR181019 (YYMMDD) - v0.2.1774.8154 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR181029 (YYMMDD) - v0.2.1774.8154 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -543,31 +543,31 @@
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>Mouse 0</Value>
+      <Value>Bouton Droit (souris)</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>Mouse 1</Value>
+      <Value>Bouton Gauche (souris)</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
-      <Value>Mouse 2</Value>
+      <Value>Bouton du milieu (souris)</Value>
     </Record>
     <Record>
       <Key>Mouse3</Key>
-      <Value>Mouse 3</Value>
+      <Value>Bouton 3 (souris)</Value>
     </Record>
     <Record>
       <Key>Mouse4</Key>
-      <Value>Mouse 4</Value>
+      <Value>Bouton 4 (souris)</Value>
     </Record>
     <Record>
       <Key>Mouse5</Key>
-      <Value>Mouse 5</Value>
+      <Value>Bouton 5 (souris)</Value>
     </Record>
     <Record>
       <Key>Mouse6</Key>
-      <Value>Mouse 6</Value>
+      <Value>Bouton 6 (souris)</Value>
     </Record>
     <Record>
       <Key>JoystickButton0</Key>
